@@ -17,10 +17,10 @@ export default {
     Na próxima seção você encontra meu CV.</p>
         <div class="flex flex-col lg:flex-row lg:space-x-4 lg:space-y-0 space-y-4">
             <button class="bg-sky-500 px-6 py-2 rounded-full text-zinc-50">
-                Here Me!
+                <a href="https://www.linkedin.com/in/leonardogeja/" target="_blank" class="">Here Me!</a>
             </button>
             <button class="bg-zinc-500 px-6 py-2 rounded-full text-zinc-50">
-                Download CV
+                <a href="mailto:contato@leonardogeja.com.br" target="_blank" class="">Enviar um E-mail</a>
             </button>
         </div>
     </article>
