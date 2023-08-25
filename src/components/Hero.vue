@@ -25,7 +25,7 @@ export default {
         </div>
     </article>
     <article>
-        <img src="../assets/hero.svg" alt="Foto de perfil">
+        <img src="https://meu-site-git-main-nadodev.vercel.app/static/media/main.da92cef060b2384085aaf55b01da2922.svg" alt="menina programando sentada">
     </article>
   </div>
   </section>
