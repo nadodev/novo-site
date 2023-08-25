@@ -10,9 +10,9 @@ import { RouterLink } from 'vue-router'
             </div>
             <nav class="space-x-10">
                 <RouterLink to="/" class="text-zinc-400 dark:text-zinc-50 text-xl font-light hover:bg-zinc-100 px-2">Home</RouterLink>
-                <RouterLink to="/Todos" class="text-zinc-400 dark:text-zinc-50 text-xl font-light hover:bg-zinc-100 px-2">About</RouterLink>
-                <RouterLink to="/Todos" class="text-zinc-400 dark:text-zinc-50 text-xl font-light hover:bg-zinc-100 px-2">Cases</RouterLink>
-                <RouterLink to="/Todos" class="text-zinc-400 dark:text-zinc-50 text-xl font-light hover:bg-zinc-100 px-2">Contact</RouterLink>
+                <RouterLink to="/" class="text-zinc-400 dark:text-zinc-50 text-xl font-light hover:bg-zinc-100 px-2">About</RouterLink>
+                <RouterLink to="/" class="text-zinc-400 dark:text-zinc-50 text-xl font-light hover:bg-zinc-100 px-2">Cases</RouterLink>
+                <RouterLink to="/" class="text-zinc-400 dark:text-zinc-50 text-xl font-light hover:bg-zinc-100 px-2">Contact</RouterLink>
             </nav>
             <button class="bg-sky-500 px-6 py-2 rounded-full text-zinc-50">
                 Here Me!
